@@ -57,8 +57,7 @@ This project is a powerful NLP-based tool designed to streamline post-meeting wo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/meeting-summarizer-nlp.git
-cd meeting-summarizer-nlp
+https://github.com/him77anshu/Summarizer-and-plan-of-action-generator-using-NLP.git
 ```
 
 ### Install Dependencies
