@@ -61,9 +61,14 @@ https://github.com/him77anshu/Summarizer-and-plan-of-action-generator-using-NLP.
 ```
 
 ### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+<pip install>
+  openai
+ transformers
+ torch
+ ffmpeg-python
+ numpy
+ pandas
+ openAI API key
 
 ### Set Up API Keys
 Add your OpenAI API key in the appropriate environment or config file.
