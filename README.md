@@ -97,11 +97,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your Tkinter GUI here)*
-
----
 
 ## 🚧 Limitations
 
